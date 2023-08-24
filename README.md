@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KhaingNaing/KhaingNaing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://github.com/KhaingNaing/KhaingNaing/assets/43476027/d4f9619c-2921-4949-92df-b1a6ee9e9eb5" alt="my banner">
+<img width="200" height="200" src="https://github.com/KhaingNaing/KhaingNaing/assets/43476027/d4f9619c-2921-4949-92df-b1a6ee9e9eb5" alt="my banner">
 </p>
+
+<p align="center">
+### Hi there 👋, I am <span style="color:purple">Khaing</span> 
+
+I am a Computer Engineering student who is passionate about Machine Learning and AI. I research and develop Machine Learning 🤖🧠 and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.
+</p>
+
+

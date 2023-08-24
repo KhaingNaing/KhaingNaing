@@ -27,4 +27,19 @@ I am a Computer Engineering student who is passionate about Machine Learning and
 I research and develop Machine Learning and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.
 
 ### 🤝 connect with me:
-<a href="https://www.linkedin.com/in/khaingnaing/"><img align="left" src="./linkedin.svg" alt="Khaing | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/khaingnaing/"><img align="left" src="./linkedin.svg" alt="Khaing | LinkedIn" width="22px"/></a>
+
+## 🔭 I'm currently working on
+
+- Industrial use of generative AI
+- Automatic detection system for AI vs. human-generated content
+- Use of Computer Vision in bush fire detection
+
+## 🌱 I'm currently learning
+
+- ML and DL tools with the help of [DeepLearning.AI](https://www.deeplearning.ai/) and [Coursera](https://www.coursera.org/)
+
+## ⚡ Fun fact
+
+- I also love learning UE5 game development 🎮
+- I can deadlift 55kg 💪

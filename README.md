@@ -28,7 +28,7 @@ I research and develop Machine Learning and Deep Learning solutions for real-wor
 
 ### 🤝 connect with me:
 <a href="https://www.linkedin.com/in/khaingnaing/"><img align="left" src="./linkedin.svg" alt="Khaing | LinkedIn" width="22px"/></a>
-
+</br>
 ## 🔭 I'm currently working on
 
 - Industrial use of generative AI

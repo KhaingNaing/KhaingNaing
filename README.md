@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-Hi there 👋, I'm <span style="color:purple">*Khaing*</span> 
+Hi there 👋, I'm <span style="color:red;">*Khaing*</span> 
 </p>
 
 I am a Computer Engineering student who is passionate about Machine Learning and AI. I research and develop Machine Learning 🤖🧠 and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.

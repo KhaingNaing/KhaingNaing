@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img width="200" height="200" src="https://github.com/KhaingNaing/KhaingNaing/assets/43476027/d4f9619c-2921-4949-92df-b1a6ee9e9eb5" alt="my banner">
+<img src="https://github.com/KhaingNaing/KhaingNaing/assets/43476027/d4f9619c-2921-4949-92df-b1a6ee9e9eb5" alt="my banner">
 </p>
 
 <p align="center">

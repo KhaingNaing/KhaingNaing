@@ -30,4 +30,6 @@ I research and develop Machine Learning and Deep Learning solutions for real-wor
 <a href="https://www.linkedin.com/in/khaingnaing/" target="_blank" rel="nofollow">
     <img src="https://github.com/KhaingNaing/KhaingNaing/assets/43476027/a07676de-e24d-44c4-a749-4b7f1c098506" alt="Khaing | Linkedin" width="22px" height="22px" />
 </a>
+[<img src="https://github.com/KhaingNaing/KhaingNaing/assets/43476027/a07676de-e24d-44c4-a749-4b7f1c098506" alt="Khaing | Linkedin" width="22px" height="22px" />](https://www.linkedin.com/in/khaingnaing/)
+
 

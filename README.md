@@ -27,6 +27,6 @@ I am a Computer Engineering student who is passionate about Machine Learning and
 I research and develop Machine Learning and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.
 
 ### 🤝 connect with me:
-[![Khaing](https://icons8.com/icon/13930/linkedin)](https://www.linkedin.com/in/khaingnaing/)
+[![icons8-linkedin (1)](https://github.com/KhaingNaing/KhaingNaing/assets/43476027/2a1e7cef-1b6c-448d-b8e4-2b3acf954415)](https://www.linkedin.com/in/khaingnaing/)
 
 

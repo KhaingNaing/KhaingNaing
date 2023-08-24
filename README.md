@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 <img src="https://github.com/KhaingNaing/KhaingNaing/assets/43476027/d4f9619c-2921-4949-92df-b1a6ee9e9eb5" alt="my banner">
 </p>
 
-
+<h3 align="center">
 Hi there 👋, I'm <span style='color: red;'>Khaing</span> 
+</h3>
 
+<h2 align="center">
+I am a Computer Engineering student who is passionate about Machine Learning and AI 🤖🧠.
+</h2>
 
-I am a Computer Engineering student who is passionate about Machine Learning and AI. I research and develop Machine Learning 🤖🧠 and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.
+I research and develop Machine Learning and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.
 
+### 🤝 connect with me:
+<a href="https://www.linkedin.com/in/khaingnaing"><img align="left" src="" alt="Khaing | LinkedIn" width="21px"/></a>
 
 

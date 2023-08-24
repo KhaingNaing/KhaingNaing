@@ -29,4 +29,4 @@ I research and develop Machine Learning and Deep Learning solutions for real-wor
 ### 🤝 connect with me:
 [![icons8-linkedin (1)](https://github.com/KhaingNaing/KhaingNaing/assets/43476027/2a1e7cef-1b6c-448d-b8e4-2b3acf954415)](https://www.linkedin.com/in/khaingnaing/)
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/khaingnaing/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Khaing | LinkedIn" width="21px"/></a>

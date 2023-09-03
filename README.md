@@ -42,4 +42,4 @@ I research and develop Machine Learning and Deep Learning solutions for real-wor
 ## ⚡ Fun fact
 
 - I also love learning UE5 game development 🎮
-- I can deadlift 55kg 💪
+- I can deadlift 58kg 💪

@@ -32,8 +32,7 @@ I research and develop Machine Learning and Deep Learning solutions for real-wor
 ## 🔭 I'm currently working on
 
 - Industrial use of generative AI
-- Automatic detection system for AI vs. human-generated content
-- Use of Computer Vision in bush fire detection
+- Developing perception for Australia OffWrold Robotic
 
 ## 🌱 I'm currently learning
 
@@ -41,5 +40,5 @@ I research and develop Machine Learning and Deep Learning solutions for real-wor
 
 ## ⚡ Fun fact
 
-- I also love learning UE5 game development 🎮
-- I can deadlift 58kg 💪
+- I always love learning UE5 for 3D game development 🎮
+- My deadlift PR is 60kg 💪

@@ -21,18 +21,19 @@ Hi there 👋, I'm <span style='color: red;'>Khaing</span>
 </h3>
 
 <h2 align="center">
-I am a Computer Engineering student who is passionate about Machine Learning and AI 🤖🧠.
+I am a graduate computer engineer who is excited about Machine Learning and AI 🤖🧠 and their use cases to elevate human living standards.
 </h2>
 
 I research and develop Machine Learning and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.
 
 ### 🤝 connect with me:
 <a href="https://www.linkedin.com/in/khaingnaing/"><img align="left" src="./linkedin.svg" alt="Khaing | LinkedIn" width="22px"/></a>
+
 </br>
 ## 🔭 I'm currently working on
 
-- Industrial use of generative AI
-- Developing perception for Australia OffWrold Robotic
+- Sentiment and sarcasm detection in different English dialects
+- Computer vision model for age detection from facial images
 
 ## 🌱 I'm currently learning
 
@@ -41,4 +42,4 @@ I research and develop Machine Learning and Deep Learning solutions for real-wor
 ## ⚡ Fun fact
 
 - I always love learning UE5 for 3D game development 🎮
-- My deadlift PR is 60kg 💪
+- My deadlift PR is 65kg 💪

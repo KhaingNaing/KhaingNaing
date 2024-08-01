@@ -21,7 +21,7 @@ Hi there 👋, I'm <span style='color: red;'>Khaing</span>
 </h3>
 
 <h2 align="center">
-I am a graduate computer engineer with a passion for Machine Learning and AI 🤖🧠. I am excited about exploring their potential to enhance human living standards and solve complex problems.
+I am a graduate computer engineer with a passion for Machine Learning and AI 🤖🧠. I am excited about exploring their potential to enhance human living standards.
 </h2>
 
 I research and develop Machine Learning and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.

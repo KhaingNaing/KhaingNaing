@@ -21,18 +21,20 @@ Hi there 👋, I'm <span style='color: red;'>Khaing</span>
 </h3>
 
 <h2 align="center">
-I am a graduate computer engineer with a passion for Machine Learning and AI 🤖🧠. I am excited about exploring their potential to enhance human living standards.
+Computer engineer focused on Machine Learning and AI 🤖🧠. Interested in applied ML, computer vision, and building practical, real-world systems.
 </h2>
 
-I research and develop Machine Learning and Deep Learning solutions for real-world challenges. Learn how AI 🦾🤖 can make human life better.
+I research and develop machine learning and deep learning solutions for real-world challenges, and enjoy exploring how AI can be applied to improve everyday systems. 🦾🤖
 
 ### 🤝 connect with me:
 <a href="https://www.linkedin.com/in/khaingnaing/"><img align="left" src="./linkedin.svg" alt="Khaing | LinkedIn" width="22px"/></a>
-</br>
+
+<a href="https://khaingnaing.github.io/my-website/"><img src="./browser-web-internet-network-svgrepo-com.svg" alt="Khaing | LinkedIn" width="22px"/></a>
+
 
 ## 🔭 I'm currently working on
 
-- Computer vision model for age detection from facial images
+- AWS ML Associate Certification
 
 ## 🌱 I'm currently learning
 
@@ -41,4 +43,4 @@ I research and develop Machine Learning and Deep Learning solutions for real-wor
 ## ⚡ Fun fact
 
 - I always love learning UE5 for 3D game development 🎮
-- My deadlift PR is 80kg 💪
+- My deadlift PR is 87.5kg 🏋️‍♂️

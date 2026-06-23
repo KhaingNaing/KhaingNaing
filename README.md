@@ -43,4 +43,4 @@ I research and develop machine learning and deep learning solutions for real-wor
 ## ⚡ Fun fact
 
 - I always love learning UE5 for 3D game development 🎮
-- My deadlift PR is 90kg 🏋️‍♂️
+- My deadlift PR is 100kg 🏋️‍♂️
